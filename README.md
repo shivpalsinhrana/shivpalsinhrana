@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivpalsinhrana
-- 👀 I’m interested in Data Science, Data Analytics, BI, and Machine Learning
-- 🌱 I’m currently learning Microsoft Azure Machine Learning
+- 👀 I’m interested in Cloud Tech, Data Science, Big Data, and Machine Learning
+- 🌱 I’m currently learning Google Cloud Platform and Terraform
 - 📫 How to reach me: shivpalsinhrana@gmail.com
 
 <!---
